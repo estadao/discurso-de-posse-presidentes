@@ -1,0 +1,13 @@
+#container{
+  /*
+  display: flex;
+  */
+}
+
+svg {
+  background: #fff;
+}
+
+.dot {
+  opacity: .8;
+}
